@@ -63,7 +63,7 @@ a{
     opacity: 1;
 }
 .footer{
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(231, 231, 231);
     margin-bottom: 0;
     padding-bottom: 0;
     color: rgb(0, 0, 0);
@@ -107,4 +107,7 @@ form{
 }
 .col-md-4{
     width: 40%;
+}
+*{
+    margin: 25px;
 }
